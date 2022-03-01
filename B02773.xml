@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Draught of an act brought in from the Committee of Trade, prohibiting the importation of silk-stuffs, &amp;c.</title>
+            <author>Scotland. Parliament. Commission for Communication of Trade.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02773</idno>
+            <idno type="STC">Wing D2140C</idno>
+            <idno type="STC">ESTC R174738</idno>
+            <idno type="EEBO-CITATION">52528791</idno>
+            <idno type="OCLC">ocm 52528791</idno>
+            <idno type="VID">178759</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178759)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2769:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Draught of an act brought in from the Committee of Trade, prohibiting the importation of silk-stuffs, &amp;c.</title>
+                  <author>Scotland. Parliament. Commission for Communication of Trade.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Silk industry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Foreign trade regulation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178759:1"/>
+            <pb n="1" facs="tcp:178759:1" rendition="simple:additions"/>
+            <head>Draught of an Act brought in from the <hi>Committee of Trade,</hi> prohibiting the Importation of Silk-Stuffs, <hi>&amp;c.</hi>
+            </head>
+            <p>OUR SOVERAIGN LORD, with Advice and Conſent of the Eſtates of Parliament, Doth ſtrictly Prohibite and Forbid the Importation of all Stuffs of any kind, made of Silk or Hair, and the importa<g ref="char:EOLhyphen"/>tion of Caligoes or other Stuffs of any kind made of Cotton, or wherein there is any Cotton, Hair or Silk; as alſo of Capes, Stockings, Gloves, Buttons, or any other kind of manufactored Cottan, Hair or Silk, or where<g ref="char:EOLhyphen"/>in any Cottan, Hair or Silk ſhall be found; and all manner of White-Threed-Laces and Points of any kind, and that from and after the Promulgation of this Act, excepting Muſline, and all plain Black-Silk-Stuffs and Velvets for Womens Hoods and Scarffs only; as alſo, Velvets for Pales, Mort-cloaths, Foot-mantles, and the Robes of ſuch publick Officers who are in uſe to wear Velvets upon them: Excepting likewiſe from this Act, whatever of the foreſaids prohibited Goods ſhall be imported by the Company of <hi>Scotland</hi> trading to <hi>Africa</hi> and the <hi>Indies,</hi> on their own Stock, and to their believe allenarly. And Ordains that all prohibited Goods imported contrair to this Act, ſhall be ſeized and brought before ſome of the next adjacent Magiſtrats, and the Magiſtrat ſhal immediatly cognoſce if the Goods be forbidden; and if they be, he ſhall within two days time call two of the next Commiſſioners of Supply, or Juſtices of Peace, who are hereby required to concur with him, and they ſhall carry the ſaids Goods to the Mercat croſs, betwixt ten and twelve in the Forenoon, and there and then they ſhall burn and deſtroy all the ſaids Goods, having firſt Inventared them, and given a Declaration on the ſaid Inventar, bearing that they were ſeized and cognoſced, and thereaf<g ref="char:EOLhyphen"/>ter burnt and deſtroyed: And if either the ſaid Seizure or Magiſtrat to whom the ſaids ſeized Goods are brought, ſhall failȝie, they ſhall be lyable to the ſame Pains as Importers; which Declaration expreſſing both quantity and va<g ref="char:EOLhyphen"/>lue, atteſted by the Magiſtrat, and two of the Commiſſioners of Supply, or Juſtices of Peace, ſhall be a full ground and title to the Seizer and o<g ref="char:EOLhyphen"/>thers under-written, for acquiring of all his Proportions of the Fines and Pe<g ref="char:EOLhyphen"/>nalties from the perſons lyable according to the tenor of this Act. And it is hereby Statute and Declared, That all Importers, Reſetters, Collectors or Farmers of the Cuſtoms, Surveyers or Waiters, who ſhall aſſiſt, concur or connive at the importing of the ſaid prohibited Manufacture, and Carriers who ſhall import the ſamen by Land, and Maſters of Ships who ſhall import the ſame by Sea, and all who buy or ſell or wear or uſe the ſame in Apparel, Houſ<g ref="char:EOLhyphen"/>hold-furniture or otherways, and the Taylors and others imployed in mak<g ref="char:EOLhyphen"/>ing Apparel or Houſhold-furniture thereof, that they ſhall be fined ſeparatly, without relief, as follows, <hi>viz.</hi> The Importer, Reſetter, Collector or Farmers of the Cuſtoms, Carrier, Maſter of the Ship, the Buyer or Seller (in way of
+<pb facs="tcp:178759:2"/>
+               <pb n="1" facs="tcp:178759:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:178759:3"/>Merchandice and not for proper uſe) Surveyers or Waiters tranſgreſſing in the value of the prohibited Goods imported, or five hundred Merks, at the op<g ref="char:EOLhyphen"/>tion of the perſons after mentioned, to whom the Fine is to belong, <hi>viz.</hi> two parts to the Diſcoverer and Purſuer, and a third to the Fiſcal of the Court be<g ref="char:EOLhyphen"/>fore whom the matter is cognoſced. And if any Maſter of a Ship ſhall tranſ<g ref="char:EOLhyphen"/>greſs, by importing in his Ship any of the ſaids forbidden Goods, then the pain ſhall be Confiſcation of the Ship, the one half to the Diſcoverer, and the other half to his Majeſty, and that the Ship be immediatly ſold by Roup, for making the ſaid Diviſion effectual, reſerving relief to the Owner againſt the Maſter thereof. And if any of the Seamen import in any Ship any of the ſaid prohi<g ref="char:EOLhyphen"/>bited Goods, he ſhall be lyable to ſix Months Impriſonment, and Eſcheat of Movables to the Maſter for his relief: And the Carriers Horſe and Furniture to be immediatly ſeized and belong to the Seizer, and himſelf to be impriſo<g ref="char:EOLhyphen"/>ned until he declare the Owner or Imployer upon Oath, and the Wearer, or Uſer, or Taylor, or other imployed in making up the ſaid Ap<g ref="char:EOLhyphen"/>parel or Funiture, to be fined in the Sum of 500 Merks each ſeparatly, and all theſe Penalties by and attour burning of the Goods. And for the greater Incouragement of ſuch as ſhall make the foreſaid Seizure: It is hereby further Statute, that in caſe any perſon ſhall make the ſaid Seizure of Goods, and ſhall make Faith, that he is not able to diſcover the Owner of the Goods ſeized; then and in that caſe he ſhall have the Re<g ref="char:EOLhyphen"/>ward of a 100 <hi>lib,</hi> or proportionally under if the Goods be not of that value, to be payed to him by the next Collector of his Majeſties Cuſtoms, under the pain of the double; which Sum or Reward ſhall be allowed to the Col<g ref="char:EOLhyphen"/>lector in his Accompts, and this Additional Reward to endure till the next Seſſion of Parliament, and no longer; And if any Magiſtrat aforeſaid ſhall be informed of any ſuch Imported Goods, and ſhall be required to Aſſiſt to the Seizing thereof, he ſhall without delay give Councurrence, and make all diligent Search for the ſame, and make open Doors if need be: And further, the Magiſtrat who refuſes or delays to do ſo, or who ſhall not judge and Execute the Laws againſt the Dilinquents and Contraveeners of this Act, he or they ſhall be lyable for the foreſaid Penalties, and Action ſhall be given to the Informer and Purſuer againſt him before any Judge compe<g ref="char:EOLhyphen"/>tent Summarly; and if it be purſued before the Lords of Seſſion, it is to be diſcuſſed without abiding the courſe of the Roll. And in regard there are or may be ſome of the ſeveral kinds of the ſaid Prohibited Goods in the Mer<g ref="char:EOLhyphen"/>chants hands not yet Vended: Therfore His Majeſty with conſent foreſaid, Statutes and Ordains, that all Merchants who have any Goods Prohibited by this Law, in their Shope or Ware-houſes, ſhall betwixt and the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Inventar all the ſaids Goods in their own Books, and extend an Double of the ſaid Inventar; the which prohibited Goods being ſo Inventared, they ſhall apply themſelves to the Keepers of the Halls of the Forraign Cloath, in whoſe Hands a Seal it to be lodged by the Magiſtrats of the Burgh where the ſaids Goods are, for Sealing all the ſaids prohibited Goods; which Seals are to have an <hi>Thistle</hi> on the one ſide, and the Name of the Town where the ſaid Seal is kept on the other ſide: and the ſaid Mer<g ref="char:EOLhyphen"/>chants are hereby Ordained to require the ſaid Keeper, to come to their Shops and Ware-houſes, to compare the ſaid Inventars with the Goods in their Poſſeſſion, which being found juſt, to require him to Seal the ſaids Goods, after the doing whereof, to deliver to the ſaid Keeper the Double of
+<pb n="3" facs="tcp:178759:3"/>the ſaid Inventar; which Double and the Inventar contained in the Mer<g ref="char:EOLhyphen"/>chants Books is to be Subſcribed by the Merchant himſelf, and Appender of the Seal: and in caſe the Keeper of the ſaid Seal, refuſe to Append the ſame he being required thereto under form of Inſtrument, he ſhall be Fyned in the Sum of an 100 <hi>lib.</hi> beſides the loſs of his Office; and the Magiſtrats are hereby Ordained to name another in his place: And further, it is Statute and and Ordained, that the ſaids Goods ſhall be Sealed betwixt and the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> next by the ſaid Hall keeper, and im<g ref="char:EOLhyphen"/>mediatly thereafter the ſaid Seals are to be broken at the ſight of the Magi<g ref="char:EOLhyphen"/>ſtrats of the place where the ſaid Seals are kept, which Magiſtrats are hereby obliged to take ſufficient ſecurity for the Keepers faithful adminiſtrating his Office, and for which ſealing the Sealer ſhall have one ſhilling <hi>Scots</hi> as his Reward for ilk peice to which he ſhall append the ſaid Seal; And farder, it is hereby Statute and Ordained, that the ſaids Merchants ſhall give an Accompt of their Retail of the ſaids inventard Goods quarterly to the ſaid Keeper of the Halls, bearing the Names of the perſons to whom they were ſold. that they be recorded, thereby to make known when all contained in the Inven<g ref="char:EOLhyphen"/>tars are ſold out, and the Merchant failling to give in the ſaid quarterly Ac<g ref="char:EOLhyphen"/>compts, ſhall be lyable in a 100 <hi>lib. toties quoties,</hi> &amp; whatever of the ſaids Goods ſhall be found either in <hi>Edinburgh</hi> or elſewhere not ſo ſealed, ſhall be repute as wrongouſly imported and burnt as herein appointed, and the counterfiting of the ſaid Seal is, hereby diſcharged under the pain of Forgery: Declaring always<g ref="char:punc">▪</g> that this Act ſhall not extend to Furniture belonging to any <hi>Scots</hi> Man, bought for their own uſe before the date of this Act, nor to any wear<g ref="char:EOLhyphen"/>ing Clothes bought and uſed by any perſon at any time when they reſided a<g ref="char:EOLhyphen"/>broad, they giving their Oath that the ſaids Goods were bought for their proper uſe, and made and uſed before their coming into this Kingdom. <hi>As alſo,</hi> it is farder Statute, that the Merchants who have any ſuch prohibited Goods in their Shop, ſhall give Bond not to import any Silk or other prohi<g ref="char:EOLhyphen"/>bited Goods, and that neither they nor any for their behove, ſhall import any of the prohibited Goods, or retail any of them, under the Penalty of 6000 <hi>lib.</hi> and whatever Merchant or others againſt whom it ſhall be proven that they have imported any Silk, or other Manufacture whatſomever con<g ref="char:EOLhyphen"/>trair to this Act, albeit the Goods be not found nor ſeized, yet if it be proven by his Oath or otherways as accords of the Law, before any <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udge compe<g ref="char:EOLhyphen"/>tent, the perſon ſo guilty ſhall be lyable in an 1000 Merks of Fine <hi>toties quo<g ref="char:EOLhyphen"/>ties,</hi> to be applyed to the Purſuer and Phiſcal tn manner foreſaid, excepting nevertheleſs from this Act, all manner of Silk, Hair or Cotton Manufacture, made or to be made within Kingdom, with all the neceſſary Materials for making thereof allennarly; As alſo, excepting the importing, Selling, Buy<g ref="char:EOLhyphen"/>ing and Wearing all manner of plain Ribbens until the next Seſſion of Par<g ref="char:EOLhyphen"/>liament, and the Selling, Buying and Wearing ſuch of all the ſaids prohibited Goods, as are already imported before the date of this Act.</p>
+            <pb facs="tcp:178759:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
